@@ -1,115 +1,98 @@
 <div align="center">
-  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1OTdjZWJmdTNqZ2VqeXE1MmlxNjN1eGc0OWhjcTRnYzNlNndycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EbE4N87Yc90lO/giphy.gif"  />
+  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1OTdjZWJmdTNqZ2VqeXE1MmlxNjN1eGc0OWhjcTRnYzNlNndycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EbE4N87Yc90lO/giphy.gif" />
+  <h3>“Coding like playing piano” 🎹</h3>
 </div>
 
-###
+<hr>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="visualstudio logo"  />
-</div>
+<h1 align="center">Hi there! 👋 I'm coding my way through life 💻🎹</h1>
 
-###
+### 👩‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TALA-ALTAWIL.TALA-ALTAWIL&"  />
-</div>
+Hi, I'm **Tala Ashraf Altawil** 🎓  
+Software Engineering Student at **Al-Azhar University - Gaza, Palestine** 🇵🇸  
 
-###
+- 🔭 Currently learning **C++, OOP, and problem-solving** using Visual Studio 💻  
+- 🎹 Passionate about coding, learning, and building creative projects  
+- 🚀 Following the **Abu-Hadhoud Roadmap** to level up my skills  
 
-<h1 align="center">Hi there!<br>I'm coding my way through life 💻🎹</h1>
+<hr>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi, I'm Tala Ashraf Altawil 🎓  <br>Software Engineering Student at Al-Azhar University - Gaza, Palestine 🇵🇸  <br><br>Currently learning C++, OOP, and problem-solving using Visual Studio 💻  <br>I love building projects, improving my skills, and sharing my progress with the community 🎹  <br>(“Coding like playing piano”)  <br>Also following the Abu-Hadhoud Roadmap to level up my skills 🚀</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Language and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-###
-<h2 align="left">💻 Featured Projects</h2>
+<hr>
 
-###
+### 💻 Featured Projects
 
-<div align="left" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+<ul>
+  <li><strong>Project 1</strong> — Rock-Paper-Scissors Project</li>
+  <li><strong>Project 2</strong> — Math Quiz Game Project</li>
+  <li><strong>Project 3</strong> — Bank Project</li>
+</ul>
+
+<hr>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="31" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="31" />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&style=for-the-badge" height="31" />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&color=e2165e&style=for-the-badge" height="31" />
 </div>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TALA-ALTAWIL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TALA-ALTAWIL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TALA-ALTAWIL.TALA-ALTAWIL&" height="50" />
 </div>
 
+<br>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TALA-ALTAWIL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=TALA-ALTAWIL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TALA-ALTAWIL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" /> </div>
+
+<br>
+
+<div>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg0MXp3cnd2ZzEzOHo0aDNud283Znh5ZWJtemMwZDUwaWVxZm03YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RQVMCUPPBKne/giphy.gif"  />
+
+### 🎯 Achievements & Progress
+
+- Solved **~300 programming problems** 💻  
+- Started diving deeper into **OOP concepts** 🎯  
+- Completed **8 courses** on the Abu-Hadhoud Roadmap 📚
+- Practicing with small projects 🛠️
 ###
+<hr>
 
-<br clear="both">
+### 🏆 GitHub Trophies
 
-<h3 align="left">🎯 Currently Working On</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TALA-ALTAWIL&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" />
+</div>
 
-###
+<hr>
 
-<p align="left">Hello World!!</p>
+<pre>
+<code>#include &lt;iostream&gt;
+using namespace std;
 
-###
-
-<img align="right" height="146" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TALA-ALTAWIL/TALA-ALTAWIL/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TALA-ALTAWIL/TALA-ALTAWIL/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TALA-ALTAWIL/TALA-ALTAWIL/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-###
-
-<img align="right" height="146" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+int main() {
+    cout << "👋 Welcome to my GitHub page!" << endl;
+    cout << "Feel free to explore my repos, share ideas, give feedback or just say hi! 😊" << endl; 
+    cout << "Let's code together! 💻🎹" << endl;
+    return 0;
+}
+</code></pre>
