@@ -66,8 +66,7 @@ Software Engineering Student at **Al-Azhar University - Gaza, Palestine** 🇵�
 <br>
 
 <div>
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg0MXp3cnd2ZzEzOHo0aDNud283Znh5ZWJtemMwZDUwaWVxZm03YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RQVMCUPPBKne/giphy.gif"  />
-
+  
 ### 🎯 Achievements & Progress
 
 - Solved **~300 programming problems** 💻  
