@@ -41,7 +41,7 @@ Software Engineering Student at **Al-Azhar University - Gaza, Palestine** 🇵�
 <ul>
   <li><strong>Project 1</strong> — <a href="https://github.com/TALA-ALTAWIL/Rock-Paper-Scissors-Project">Rock-Paper-Scissors Project</a></li>
   <li><strong>Project 2</strong> — Math Quiz Game Project</li>
-  <li><strong>Project 3</strong> — Bank Project</li>
+  <li><strong>Project 3</strong> — <a href="https://github.com/TALA-ALTAWIL/Simple-Banking-Management-System">🏦 Simple Banking Management System</a></li>
 </ul>
 
 <hr>
