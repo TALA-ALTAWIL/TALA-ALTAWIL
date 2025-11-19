@@ -1,6 +1,6 @@
 <div align="center">
   <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1OTdjZWJmdTNqZ2VqeXE1MmlxNjN1eGc0OWhjcTRnYzNlNndycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EbE4N87Yc90lO/giphy.gif" />
-  <h3>“Coding like playing piano” 🎹</h3>
+  <h3>“Coding is like playing piano” 🎹</h3>
 </div>
 
 <hr>
@@ -41,7 +41,7 @@ Software Engineering Student at **Al-Azhar University - Gaza, Palestine** 🇵�
 <ul>
   <li><strong>Project 1</strong> — <a href="https://github.com/TALA-ALTAWIL/Rock-Paper-Scissors-Project">Rock-Paper-Scissors Project</a></li>
   <li><strong>Project 2</strong> — Math Quiz Game Project</li>
-  <li><strong>Project 3</strong> — <a href="https://github.com/TALA-ALTAWIL/Simple-Banking-Management-System">🏦 Simple Banking Management System</a></li>
+  <li><strong>Project 3</strong> — <a href="https://github.com/TALA-ALTAWIL/Banking-Management-System">🏦 Banking Management System</a></li>
 </ul>
 
 <hr>
